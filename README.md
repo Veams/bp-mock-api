@@ -11,7 +11,7 @@ With this blueprint you can scaffold a mock api endpoint with following options:
 1. After that be sure your project contains a [`veams-cli.json`](https://github.com/Sebastian-Fitzner/generator-veams/blob/dev/generators/app/templates/veams-cli.json).
 1. Make sure you have updated `veams-cli.json` to fit the needs of your project.
 1. Install the package with `npm i veams-bp-mock-api-endpoint --save-dev`.
-1. Reference the package in `veams-cli.json` by adding `container` to the `blueprint` object like so:
+1. Reference the package in `veams-cli.json` by adding `api` to the `blueprint` object like so:
 
 ``` json
 {
