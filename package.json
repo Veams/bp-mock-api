@@ -1,5 +1,5 @@
 {
-	"name": "veams-bp-mock-api-endpoint",
+	"name": "@veams/bp-mock-api",
 	"version": "0.0.1",
 	"description": "Blueprint templates for a mock api endpoint.",
 	"scripts": {
@@ -7,7 +7,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Veams/veams-bp-mock-api-endpoint.git"
+		"url": "git+https://github.com/Veams/mock-api.git"
 	},
 	"keywords": [
 		"Veams",
@@ -18,7 +18,7 @@
 	"author": "Sebastian Fitzner",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/Veams/veams-bp-mock-api-endpoint/issues"
+		"url": "https://github.com/Veams/mock-api/issues"
 	},
-	"homepage": "https://github.com/Veams/veams-bp-mock-api-endpoint#readme"
+	"homepage": "https://github.com/Veams/mock-api#readme"
 }
